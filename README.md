@@ -23,8 +23,8 @@ This is a **Streamlit-based web application** that leverages **LLaMA (llama-cpp-
 ## Installation
 ### 1. Clone the Repository  
 ```sh
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/amritanshkumar/tprm_dash.git
+cd tprm_dash
 ```
 ### 2. Install Dependencies
 Ensure you have Python 3.9+ installed, then run:
